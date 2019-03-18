@@ -24,7 +24,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   pull_to_refresh: ^1.1.6
-  flutter_swiper: ^1.1.5 #轮播图
+#  flutter_swiper: ^1.1.5 #轮播图
   fluttertoast: ^3.0.3
   dio: ^2.1.0
 
