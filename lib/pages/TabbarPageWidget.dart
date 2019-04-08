@@ -58,8 +58,8 @@ class _TabbarPageState extends State<TabbarPage> with SingleTickerProviderStateM
       body: new TabBarView(
         controller: _tabcontroller,
         children: <Widget>[
-          new ConnectPage(),
-//          new HomePage(),
+//          new ConnectPage(),
+          new HomePage(),
           new DataPage(),
           new MyPage(),
         ],
